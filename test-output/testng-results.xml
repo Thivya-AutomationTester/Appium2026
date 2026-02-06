@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-02-05T19:36:46 CET" name="Default suite" finished-at="2026-02-05T19:36:59 CET" duration-ms="12920">
+    <groups>
+    </groups>
+    <test started-at="2026-02-05T19:36:46 CET" name="Default test" finished-at="2026-02-05T19:36:59 CET" duration-ms="12920">
+      <class name="MobileAutomation.FirstProject.Miscellaneous">
+        <test-method is-config="true" signature="configureAppium()[pri:0, instance:MobileAutomation.FirstProject.Miscellaneous@1165b38]" started-at="2026-02-05T19:36:46 CET" name="configureAppium" finished-at="2026-02-05T19:36:52 CET" duration-ms="6548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureAppium -->
+        <test-method signature="openUsingAppPackage()[pri:0, instance:MobileAutomation.FirstProject.Miscellaneous@1165b38]" started-at="2026-02-05T19:36:52 CET" name="openUsingAppPackage" finished-at="2026-02-05T19:36:57 CET" duration-ms="4723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUsingAppPackage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MobileAutomation.FirstProject.Miscellaneous@1165b38]" started-at="2026-02-05T19:36:57 CET" name="tearDown" finished-at="2026-02-05T19:36:59 CET" duration-ms="1603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileAutomation.FirstProject.Miscellaneous -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
