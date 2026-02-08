@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="MobileAutomation.FirstProject.Miscellaneous">
+      <class name="android.hybridapp.EndToEndTest">
         <methods>
+          <include name="placeOrder"/>
           <include name="configureAppium"/>
           <include name="tearDown"/>
-          <include name="openUsingAppPackage"/>
         </methods>
-      </class> <!-- MobileAutomation.FirstProject.Miscellaneous -->
+      </class> <!-- android.hybridapp.EndToEndTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
